@@ -1,0 +1,7 @@
+Àrea d'un rectangle
+
+1. Crear les variables de l'alçada, amplada i area del rectangle.
+2. Preguntar a l'usuari l'alçada del rectangle.
+3. Preguntar a l'usuari l'amplada del rectangle.
+4. Fer la multiplicació de les dos dades rebuts per l'usuari.
+5. Mostrar el resultat a l'usuari.

@@ -1,0 +1,7 @@
+Moviment d'un enemic en quadrat
+
+1. Crear les variables de moviment en 4 direccions
+2. Moure al persontage 10 unitats a la dreta.
+3. Moure al persontage 10 unitats cap a dalt.
+4. Moure al persontage 10 unitats a l'esqsuerra.
+5. Moure al persontage 10 unitats cap a baix.

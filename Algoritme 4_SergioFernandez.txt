@@ -1,0 +1,5 @@
+Algoritme vida de la poció
+
+1. Crear les variables de la poció i la vida.
+2. Si l'usuari utilitza la poció, sumarli vida i poujar 10 pts de vida a l'interfaç.
+3. Si no utilitza la poció no fer res.

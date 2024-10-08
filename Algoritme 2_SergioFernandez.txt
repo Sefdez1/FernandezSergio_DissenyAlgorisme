@@ -1,0 +1,8 @@
+Nota final d'un mòdul
+
+1. Crear les variables de totes les notes
+2. Preguntar quines son les notes de la 1a unitat formativa
+3. Preguntar quines son les notes de la 2a unitat formativa
+4. Preguntar quines son les notes de la 3a unitat formativa
+5. Fer els cálculs amb els percentatges de cada nota
+6. Donar el resultat de la nota final a l'usuari

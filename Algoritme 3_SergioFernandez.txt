@@ -1,0 +1,5 @@
+Algoritme data de naixement
+
+1. Pedir a l'usuari que escrigui la seva edat
+2. Si es major, pot entrar
+3. Si es menor, donar un missatge a l'usuari de que no pot entrar i no deixarli accedir
